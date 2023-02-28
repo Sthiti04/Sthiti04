@@ -11,16 +11,16 @@
 
 - 🌱 I’m currently learning **NLP and Deep learning**
 
-- 📝 I regularly write articles on [https://medium.com/@sthitiswain4](https://medium.com/@sthitiswain4)
+- 📝 I regularly write articles on [@sthitiswain4](@sthitiswain4)
 
 - 📫 How to reach me **sthitiswain4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sthiti-swain-12595a206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sthiti-swain-12595a206/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sthiti04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sthiti04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sthiti-swain-12595a206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sthiti-swain-12595a206" height="30" width="40" /></a>
+<a href="https://kaggle.com/sthiti04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sthiti04" height="30" width="40" /></a>
 <a href="https://medium.com/@sthitiswain4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sthitiswain4" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sthitiswain4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sthitiswain4" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sthitiswain4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sthitiswain4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sthiti__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sthiti__" height="30" width="40" /></a>
 </p>
 
