@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NLP and Deep learning**
 
-- 📝 I regularly write articles on [@sthitiswain4](@sthitiswain4)
+- 📝 I regularly write articles on [@sthitiswain4](https://medium.com/@sthitiswain4)
 
 - 📫 How to reach me **sthitiswain4@gmail.com**
 
