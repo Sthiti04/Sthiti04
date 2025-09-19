@@ -7,11 +7,7 @@
 <h1 align="center">Hi 👋, I'm Sthiti</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Machine Learning projects**
-
-- 🌱 I’m currently learning **NLP and Deep learning**
-
-- 📝 I regularly write articles on [@sthitiswain4](https://medium.com/@sthitiswain4)
+- 🔭 I’m currently pursuing Masters in Computer Science Engineering.**
 
 - 📫 How to reach me **sthitiswain4@gmail.com**
 
